@@ -1,0 +1,24 @@
+# BASIC LINUX COMMANDS
+
+1. ~ - home directory
+2. mkdir directoryname - makes a directory with the name specified in the path you are in
+3. ls - list files/folders within the directory
+4. cd - change directory
+5. cd .. - takes you to the previous path/step
+6. touch filename - creates a file with name specified
+7. nano filename - nano is a LINUX text editor
+8. cat filename - see the content of the file on CLI 
+9. rm filename - to delete the file
+10. rm -r directoryname - to recursively delete the content may be files/folders of the directory as well as directory 
+11. ls -l - to see the extension and other permission allowed for the files/folders
+12. cp filename destinationdirectory - copy the file to the destination directory
+13. mv filename destinationdirectory - move the file to the destination directory
+14. mv oldfilename newfilename - rename 
+15. sudo - super user do 
+16. sudo apt install packagename - apt is the package manager for Ubuntu system
+17. ssh -i pathtothesshKey username@host(ipaddress) - to remotely login to another linux/unix computer and execute commands there.
+18. vi filename - another text editor
+19. i - inside vi editor press i to insert and start typing
+20. wq - to save the editor content and leave
+21. qa! - do not save and leave the close the editor similar to git bash on Windows.
+
