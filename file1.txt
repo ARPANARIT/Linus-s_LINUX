@@ -21,4 +21,5 @@
 19. i - inside vi editor press i to insert and start typing
 20. wq - to save the editor content and leave
 21. qa! - do not save and leave the close the editor similar to git bash on Windows.
-This goes to master again
+
+
