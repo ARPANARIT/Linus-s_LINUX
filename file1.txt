@@ -21,4 +21,8 @@
 19. i - inside vi editor press i to insert and start typing
 20. wq - to save the editor content and leave
 21. qa! - do not save and leave the close the editor similar to git bash on Windows.
-This goes to master again
+22. pushd path/to/dir- to push the directory on top of the current directory
+23. popd - to remove the current directory pushed
+24. cd - - the first - means go to the previous directory
+25. pwd - present working directory
+
